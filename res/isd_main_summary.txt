@@ -1,0 +1,9 @@
+all              n= 555 d_st  -6.28 [ -7.69, -4.71]  d_era  -8.10 [-11.01, -5.44]  dRH st -2.00 era -1.84 diff  0.03 [-0.13, 0.23]  dT st 0.78 era 0.78  r_d 0.71 r_dRH 0.71 brk 282
+cov90            n= 353 d_st  -5.80 [ -7.64, -4.29]  d_era  -8.65 [-11.31, -5.44]  dRH st -2.12 era -1.88 diff -0.05 [-0.22, 0.20]  dT st 0.83 era 0.82  r_d 0.71 r_dRH 0.65 brk 172
+no_break         n= 273 d_st  -6.57 [-10.80, -4.31]  d_era  -9.15 [-11.29, -4.16]  dRH st -1.88 era -1.84 diff  0.08 [-0.08, 0.26]  dT st 0.78 era 0.77  r_d 0.72 r_dRH 0.90 brk 0
+non_US           n= 399 d_st  -5.86 [ -7.69, -4.29]  d_era  -6.74 [-10.19, -4.08]  dRH st -1.92 era -1.64 diff -0.12 [-0.31, 0.10]  dT st 0.86 era 0.88  r_d 0.69 r_dRH 0.72 brk 220
+US               n= 156 d_st  -6.69 [-10.85, -3.33]  d_era -10.56 [-15.91, -5.61]  dRH st -2.26 era -2.24 diff  0.36 [ 0.04, 0.59]  dT st 0.58 era 0.60  r_d 0.76 r_dRH 0.68 brk 62
+tropics          n=  90 d_st  -0.42 [ -6.83,  5.55]  d_era  -4.28 [ -9.21, -0.10]  dRH st  0.95 era  1.31 diff -0.22 [-0.66, 0.11]  dT st 0.50 era 0.42  r_d 0.54 r_dRH 0.71 brk 53
+N extratropics   n= 418 d_st  -6.94 [ -9.52, -5.12]  d_era  -9.70 [-11.37, -5.96]  dRH st -2.36 era -2.15 diff  0.05 [-0.14, 0.30]  dT st 0.89 era 0.89  r_d 0.75 r_dRH 0.65 brk 203
+S extratropics   n=  47 d_st  -6.28 [-12.37, -3.91]  d_era  -5.86 [-12.92, -2.27]  dRH st -3.17 era -3.23 diff  0.24 [-0.30, 0.48]  dT st 0.61 era 0.58  r_d 0.69 r_dRH 0.75 brk 26
+tropics_no_break n=  37 d_st   0.57 [ -9.17,  6.15]  d_era  -3.79 [ -9.55,  3.04]  dRH st  1.18 era  1.31 diff  0.11 [-0.28, 0.35]  dT st 0.48 era 0.43  r_d 0.51 r_dRH 0.95 brk 0

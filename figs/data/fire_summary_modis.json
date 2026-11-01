@@ -1,0 +1,24 @@
+{
+ "MH_RR_all":0.1969122668,
+ "MH_cells":1653,
+ "MH_RR_cell_median":0.1841609412,
+ "avoid_mean":3.7727124691,
+ "avoid_ratio":0.6368136406,
+ "slope":0.4421607034,
+ "slope_nofurther":0.4822073183,
+ "avoid_nofurther":2.7062368393,
+ "slope_ci":[
+  0.3508005461,
+  0.5239919179
+ ],
+ "avoid_ci":[
+  3.4689909279,
+  4.0419986367
+ ],
+ "implied_TgC_per_yr":-1.5142239553,
+ "implied_Mha_per_yr":-0.385067101,
+ "seasonEC_total_TgC":654.1168129656,
+ "gbm_obs_over_pred_wet":0.7849873755,
+ "gbm_obs_over_pred_dry":1.0070512372,
+ "gbm_ratio":0.7794909995
+}

@@ -1,0 +1,21 @@
+{
+ "MH_RR_all":0.1964121786,
+ "MH_cells":1672,
+ "MH_RR_cell_median":0.1869007745,
+ "avoid_mean":4.031709671,
+ "avoid_ratio":0.6111642718,
+ "slope":0.3988852431,
+ "slope_nofurther":0.3139647846,
+ "avoid_nofurther":3.033680439,
+ "slope_ci":[
+  0.2902971262,
+  0.4997918104
+ ],
+ "avoid_ci":[
+  3.693383342,
+  4.3784357309
+ ],
+ "gbm_obs_over_pred_wet":0.8011647394,
+ "gbm_obs_over_pred_dry":1.0191705242,
+ "gbm_ratio":0.7860948883
+}
