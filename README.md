@@ -14,7 +14,7 @@ python figs/figS.py          # Figs S1-S4 and S6; figS5st.py draws Fig. S5, figS
 python figs/tables.py        # Tables S1 and S2 (base rows); tableS4.py and tableS5.py write Tables S4 and S5
 ```
 
-Run every script from the repository root. The figures are written to `figs/` and the tables to `tables_out/` (set `PARTS` to change this). All twelve figures redrawn from `figs/data/` in a fresh copy of this repository are identical, pixel for pixel, to those in the manuscript.
+Run every script from the repository root. The figures are written to `figs/` and the tables to `tables_out/` (set `PARTS` to change this); rendered figures are not stored in the repository. All twelve figures redrawn from `figs/data/` in a fresh copy of this repository are identical, pixel for pixel, to those in the manuscript.
 
 Python 3 with numpy, pandas, scipy, statsmodels, matplotlib and cartopy is enough for the figures, tables and the cloud-free fire analysis. The full chain also needs xarray, zarr, gcsfs, cftime, lightgbm and h5py; `cloudfree/wc_cover.py` needs rasterio, and the fire-mask extraction needs pyhdf and curl.
 
